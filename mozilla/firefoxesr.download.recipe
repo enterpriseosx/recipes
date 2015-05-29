@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Identifier</key>
-    <string>local.download.Firefox</string>
+    <string>com.github.enterpriseosx.download.FirefoxESR</string>
     <key>Input</key>
     <dict>
         <key>LOCALE</key>
