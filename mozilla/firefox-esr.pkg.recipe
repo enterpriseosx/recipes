@@ -19,7 +19,7 @@ combination is offered.</string>
         <key>RELEASE</key>
         <string>latest-esr</string>
         <key>LOCALE</key>
-        <string>en_us</string>
+        <string>en_US</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
